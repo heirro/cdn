@@ -1,5 +1,3 @@
-@import url{"https://fonts.googleapis.com/css?family=Ubuntu:500&display=swap"}
 video{position:absolute;top:0;left:0;width:100%;height:100%;background-color:black;}
 video::cue {color: #F4F4F4;background-color:transparent;font-family: 'Ubuntu', sans-serif;text-shadow: 2px 2px 2px black;}
-video::-webkit-media-controls-fullscreen-button {}
 video::-internal-media-controls-download-button {display:none;}
